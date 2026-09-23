@@ -1,9 +1,13 @@
 # Sie
 
-Xoe ra hai cai canh
+# Job experience
+- Tiktoker
+- Youtuber
 
-## A second-level heading
-**This is bold text**
+#Computer skill
+- Python
+- Github
+- Adobe
 
-### A third-level heading
-_This text is italicized_
+# Education
+- GMBA
