@@ -1,14 +1,15 @@
 # Sie
 
-# Job experience
+Xoe ra hai cai canh
+
+## Job experience
 - Tiktoker
 - Youtuber
 
-#Computer skill
+## Computer skills
 - Python
-- Github
+- GitHub
 - Adobe
 
-# Education
+## Education
 - GMBA
-
